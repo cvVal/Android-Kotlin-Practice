@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ApplicationTest</string>
+    <string name="button_to_cycle">1. To life cycle events.</string>
+    <string name="button_to_click">2. To click events.</string>
+    <string name="button_to_android_extensions">3. To Kotlin Android extensions.</string>
+    <string name="button_to_picasso">4. To picasso.</string>
+    <string name="button_to_list_view">5. To list view.</string>
+    <string name="button_to_permissions">7. To permissions</string>
+    <string name="button_to_intents">6. To intents.</string>
+    <string name="button_to_shared_preferences">8. To shared preferences</string>
+    <string name="button_to_extension_functions">9. To extension functions</string>
+    <string name="button_click_xml">Button xml</string>
+    <string name="button_click_in_line">Button in line</string>
+    <string name="button_click_multi_1">Button multi 1</string>
+    <string name="button_click_multi_2">Button multi 2</string>
+    <string name="button_click_multi_3">Button multi 3</string>
+    <string name="button_kat_by_id">Button by id</string>
+    <string name="button_kat_by_kat">Button by kat</string>
+    <string name="button_intent_extras">Intent with extras</string>
+    <string name="button_intent_flags">Intent with flags</string>
+    <string name="button_intent_object">Intent with object</string>
+    <string name="button_intent_extras_go_back">Go Back</string>
+    <string name="button_permission_take_picture">Take picture</string>
+    <string name="edit_text_shared_name">Name</string>
+    <string name="edit_text_shared_age">Age</string>
+    <string name="button_shared_save">Save</string>
+    <string name="button_extension_toast">Toast</string>
+    <string name="button_extension_snackbar">Snackbar</string>
+    <string name="button_extension_load_by_url">load by url</string>
+    <string name="button_extension_go_to_activity">go to activity</string>
+    <string name="button_extension_image_view">Container to load an image by URL</string>
+</resources>
